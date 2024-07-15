@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navBar_background">#1a1a48</color>
+    <color name="toolbar_background">#bebebe</color>
+    <color name="dialog_button_color">#26C6DA</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="system_red">#ff0000</color>
+    <color name="system_transparent"> #00000000</color>
+    <color name="system_blue">#0000ff</color>
+    <color name="button_gray">#808080</color>
+
+</resources>
